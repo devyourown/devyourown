@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @devyourown
-- Who lives in republic of Korea. born in 1999. always interested in working abroad. 
+- Who lives in republic of Korea. 
+- born in 1999. 
+- always interested in working abroad. 
 
 ### 👀 I’m interested in ...
 - Making a game or an app for common users.
@@ -16,10 +18,12 @@
 - AWS, CI (Continuous Intergrate), CD (Continuous Devlopment)
 - Design Patterns for OOP (Object Oriented Programming)
 - UI/UX for a front-end app.
+- Language: Rust(Beginner), Java(Excellent), C(Good), Typescript(Good), Python(Good)
 
 ### 💞️ I’m looking to collaborate on ...
 - Learning subjects related with above.
 - Any app with Microservice Architecture. 
+- Fun domain with any language.
 
 ### 📫 How to reach me ...
 - Email : hyojoon56@gmail.com

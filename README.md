@@ -7,10 +7,8 @@
 
 ### 🌱 I’m currently learning ...
 - Clean Architectures (how to make great dependencies) with SOLID
-- Collaborating with coworkers.
 - Spring, Spring-boot, Spring-security.
 - Design Patterns for OOP (Object Oriented Programming)
-- UI/UX for a front-end app.
 - Language: Java(Excellent), C(Good), Python(Good)
 
 ### 💞️ I’m looking to collaborate on ...
